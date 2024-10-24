@@ -1,5 +1,5 @@
 # GlasPro Work
-This repository contains a collection of SQL queries, Visual Basic scripts, and Reporting Services (.rdl) files developed for GlasPro. These resources were created to improve data management, reporting efficiency, and operational workflows within the company's ERP system.
+This repository contains a collection of SQL queries, Visual Basic scripts, and Reporting Services (.rdl) files developed for GlasPro. These resources were created to improve data management, reporting efficiency, and operational workflows within the company's ERP system, FeneVision.
 
 ## Project Overview
 The projects housed in this repository focus primarily on database management, reporting enhancements, and workflow optimizations using SQL and Visual Basic within the context of Microsoft SQL Server Reporting Services (SSRS).
